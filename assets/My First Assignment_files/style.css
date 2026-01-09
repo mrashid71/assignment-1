@@ -135,43 +135,11 @@ section .circle-box .e-access{
 /* Box Section */
 .box{
     display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 60px;
 }
 .box .knowledge-box img{
     height: 600px;
     width: 600px;
 }
 .content-box .solution{
-    font-size: 16px;
-    font-weight: 500;
-    color: rgba(70, 145, 101, 1);
-    
 
-}
-.second-brn{
-    font-size: 48px;
-    font-weight: 700;
-}
-.para{
-    font-size: 16px;
-    font-weight: 400;
-    color: rgba(98, 115, 130, 1);
-}
-.content-box{
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
-}
-.obj-box{
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
-}
-.obj{
-    display: flex;
-    gap: 6px;
-    font-size: 16px;
-    font-weight: 500;
 }
